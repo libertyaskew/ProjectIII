@@ -2,6 +2,8 @@
 """
 RATIONAL NUMBER RECONSTRUCTION
 
+ZP2Q(c,m) applys Wang's rational number reconstruction for an integer c in a finite field mod m 
+
 CRT_rat_recon implements the rational integer reconstruction algorithm combined with
 the chinese remainder theorem as presented in the paper
 
